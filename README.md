@@ -27,17 +27,17 @@ Me especializo en:
 
 ## 📂 Proyectos destacados  
 
-### 🔹 **DashLogistics — Análisis y visualización end‑to‑end**  
+### 🔹 **DashLogistics — Análisis y visualización end‑to‑end**
 Pipeline ETL + análisis + dashboard con KPIs de logística, tiempos, costes y eficiencia.  
-🔗 Repositorio: *[DashLogistics](https://github.com/juandelaf1/DashLogistics)*  
+🔗 Repositorio: [DashLogistics](https://github.com/juandelaf1/DashLogistics)
 
-### 🔹 Optimus Price — Pricing hotelero basado en datos
-Análisis de demanda, estacionalidad y KPIs (ADR, RevPAR, ocupación) para optimizar precios y mejorar ingresos.
-🔗 Repositorio: OptimusPrice_proyecto_final_ML
+### 🔹 **Optimus Price — Pricing hotelero basado en datos**
+Análisis de demanda, estacionalidad y KPIs (ADR, RevPAR, ocupación) para optimizar precios y mejorar ingresos.  
+🔗 Repositorio: [OptimusPrice_proyecto_final_ML](https://github.com/juandelaf1/OptimusPrice_proyecto_final_ML)
 
-### 🔹 **EDA de vinos — Exploración y patrones de precio**  
+### 🔹 **EDA de vinos — Exploración y patrones de precio**
 Análisis exploratorio para identificar factores que influyen en el precio y calidad del vino.  
-🔗 Repositorio: *mas_alla_de_la_etiqueta_EDA*
+🔗 Repositorio: [mas_alla_de_la_etiqueta_EDA](https://github.com/juandelaf1/mas_alla_de_la_etiqueta_EDA)
 
 ---
 
