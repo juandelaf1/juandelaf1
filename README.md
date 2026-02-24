@@ -21,7 +21,7 @@ Me especializo en:
 
 | Visualización | Datos | Lenguajes | Otros |
 |--------------|-------|-----------|--------|
-| Power BI, DAX | SQL Server, Excel | Python | Git, GitHub |
+| Power BI, DAX | PostgreSQL , Excel | Python | Git, GitHub |
 
 ---
 
