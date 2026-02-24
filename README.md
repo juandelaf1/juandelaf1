@@ -31,9 +31,9 @@ Me especializo en:
 Pipeline ETL + análisis + dashboard con KPIs de logística, tiempos, costes y eficiencia.  
 🔗 Repositorio: *[DashLogistics](https://github.com/juandelaf1/DashLogistics)*  
 
-### 🔹 **Análisis SQL de negocio (próximo)**  
-Consultas avanzadas, CTEs, window functions y KPIs de ventas y clientes.  
-🔗 Repositorio: *sql-business-analysis* (en construcción)
+### 🔹 Optimus Price — Pricing hotelero basado en datos
+Análisis de demanda, estacionalidad y KPIs (ADR, RevPAR, ocupación) para optimizar precios y mejorar ingresos.
+🔗 Repositorio: OptimusPrice_proyecto_final_ML
 
 ### 🔹 **EDA de vinos — Exploración y patrones de precio**  
 Análisis exploratorio para identificar factores que influyen en el precio y calidad del vino.  
