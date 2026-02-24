@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Juan  
+### **Data Analyst | SQL · Power BI · Python | Business & Operations Analytics**  
+📍 Madrid, España  
 
-<!--
-**juandelaf1/juandelaf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí  
+Soy **Data Analyst** con más de **7 años de experiencia en operaciones y negocio**, trabajando con métricas de ventas, costes, eficiencia y rendimiento.  
+Combino **análisis de datos**, **visualización** y **conocimiento operativo** para generar insights que mejoran procesos y apoyan la toma de decisiones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me especializo en:  
+- 📊 Análisis de negocio y KPIs  
+- 🧮 SQL para análisis y reporting  
+- 📈 Dashboards en Power BI  
+- 🐍 Python para análisis y automatización  
+- 🔍 Insights accionables orientados a impacto real  
+
+---
+
+## 🧰 Mi stack de herramientas  
+
+| Visualización | Datos | Lenguajes | Otros |
+|--------------|-------|-----------|--------|
+| Power BI, DAX | SQL Server, Excel | Python | Git, GitHub |
+
+---
+
+## 📂 Proyectos destacados  
+
+### 🔹 **DashLogistics — Análisis y visualización end‑to‑end**  
+Pipeline ETL + análisis + dashboard con KPIs de logística, tiempos, costes y eficiencia.  
+🔗 Repositorio: *[DashLogistics](https://github.com/juandelaf1/DashLogistics)*  
+
+### 🔹 **Análisis SQL de negocio (próximo)**  
+Consultas avanzadas, CTEs, window functions y KPIs de ventas y clientes.  
+🔗 Repositorio: *sql-business-analysis* (en construcción)
+
+### 🔹 **EDA de vinos — Exploración y patrones de precio**  
+Análisis exploratorio para identificar factores que influyen en el precio y calidad del vino.  
+🔗 Repositorio: *mas_alla_de_la_etiqueta_EDA*
+
+---
+
+## 💼 Qué aporto a una empresa  
+- 🔍 **Visión de negocio**: experiencia real en operaciones y métricas clave.  
+- 📊 **Rigor analítico**: datos limpios, KPIs claros y conclusiones accionables.  
+- 🚀 **Optimización**: foco en eficiencia, costes y mejora continua.  
+- 🤝 **Trabajo en equipo**: comunicación clara y orientación a resultados.  
+- 🧩 **Capacidad de ejecución**: si falta información, la busco; si algo no funciona, lo arreglo.  
+
+---
+
+## 📬 Conectemos  
+🔗 **LinkedIn:** https://www.linkedin.com/in/juandelafuentelarrocca/  
+📧 **Email:** juandelafuentelarrocca@gmail.com  
