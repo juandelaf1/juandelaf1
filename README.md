@@ -5,8 +5,9 @@
 ---
 
 ## 🧠 Sobre mí  
-Soy **Data Analyst** con más de **7 años de experiencia en operaciones y negocio**, trabajando con métricas de ventas, costes, eficiencia y rendimiento.  
-Combino **análisis de datos**, **visualización** y **conocimiento operativo** para generar insights que mejoran procesos y apoyan la toma de decisiones.
+Soy Data Analyst con una sólida trayectoria en operaciones y negocio, donde durante más de 7 años trabajé con métricas clave de ventas, costes, eficiencia, demanda y rendimiento. Esa experiencia me dio una comprensión profunda de cómo funcionan los procesos reales y de cómo los datos pueden mejorar decisiones, optimizar recursos y anticipar problemas.
+
+Tras formarme en Data Science & Analytics, incorporé herramientas como Python, SQL, Power BI y técnicas de análisis avanzado. Hoy combino mi experiencia operativa con capacidades técnicas para transformar datos complejos en información clara, visual y accionable.
 
 Me especializo en:  
 - 📊 Análisis de negocio y KPIs  
@@ -19,10 +20,13 @@ Me especializo en:
 
 ## 🧰 Mi stack de herramientas  
 
-| Visualización | Datos | Lenguajes | Otros |
-|--------------|-------|-----------|--------|
-| Power BI, DAX | PostgreSQL , Excel | Python | Git, GitHub |
-
+| Categoría                    | Herramientas / Tecnologías                                                                 |
+|------------------------------|--------------------------------------------------------------------------------------------|
+| **Visualización**            | Power BI, Streamlit, Plotly, Seaborn, Matplotlib                                           |
+| **Análisis y Procesamiento** | pandas, numpy, scikit‑learn (Machine Learning), BeautifulSoup, requests                    |
+| **Bases de datos**           | PostgreSQL, SQLite y MongoDB (conocimientos básicos)                                       |
+| **Lenguajes**                | Python                                                                                     |
+| **Entorno y Control**        | Git, GitHub                                                                                |
 ---
 
 ## 📂 Proyectos destacados  
