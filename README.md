@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Juan  
-### **Data Analyst | SQL · Power BI · Python | Business & Operations Analytics**  
+### **Data Analyst | SQL · Python · Power BI | Operations & Business Analytics**  
 📍 Madrid, España  
 
 ---
@@ -20,13 +20,13 @@ Me especializo en:
 
 ## 🧰 Mi stack de herramientas  
 
-| Categoría                    | Herramientas / Tecnologías                                                                 |
-|------------------------------|--------------------------------------------------------------------------------------------|
+| Categoría                    | Herramientas / Tecnologías                                |
+|------------------------------|-----------------------------------------------------------|
 | **Visualización**            | Power BI, Streamlit, Plotly, Seaborn, Matplotlib                                           |
-| **Análisis y Procesamiento** | pandas, numpy, scikit‑learn (Machine Learning), BeautifulSoup, requests                    |
-| **Bases de datos**           | PostgreSQL, SQLite y MongoDB (conocimientos básicos)                                       |
+| **Análisis y Procesamiento** | pandas, numpy, scikit‑learn (Machine Learning)            |
+| **Bases de datos**           | PostgreSQL, SQLite                                        |
 | **Lenguajes**                | Python                                                                                     |
-| **Entorno y Control**        | Git, GitHub                                                                                |
+| **Entorno y Control**        | Git, GitHub                                               |
 ---
 
 ## 📂 Proyectos destacados  
