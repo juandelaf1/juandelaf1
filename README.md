@@ -24,7 +24,7 @@ Me especializo en:
 |------------------------------|-----------------------------------------------------------|
 | **Visualización**            | Power BI, Streamlit, Plotly, Seaborn, Matplotlib          |
 | **Análisis y Procesamiento** | pandas, numpy                                             |
-| **Bases de datos**           | PostgreSQL, SQLite                                        |
+| **Bases de datos**           | PostgreSQL                                                |
 | **Lenguajes**                | Python                                                    |
 | **Entorno y Control**        | Git, GitHub                                               |
 ---
