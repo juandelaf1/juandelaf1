@@ -22,10 +22,10 @@ Me especializo en:
 
 | Categoría                    | Herramientas / Tecnologías                                |
 |------------------------------|-----------------------------------------------------------|
-| **Visualización**            | Power BI, Streamlit, Plotly, Seaborn, Matplotlib                                           |
-| **Análisis y Procesamiento** | pandas, numpy, scikit‑learn (Machine Learning)            |
+| **Visualización**            | Power BI, Streamlit, Plotly, Seaborn, Matplotlib          |
+| **Análisis y Procesamiento** | pandas, numpy                                             |
 | **Bases de datos**           | PostgreSQL, SQLite                                        |
-| **Lenguajes**                | Python                                                                                     |
+| **Lenguajes**                | Python                                                    |
 | **Entorno y Control**        | Git, GitHub                                               |
 ---
 
