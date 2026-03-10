@@ -1,59 +1,60 @@
-# 👋 ¡Hola! Soy Juan  
+# 👋 Hi! I'm Juan  
 ### **Data Analyst | SQL · Python · Power BI | Operations & Business Analytics**  
-📍 Madrid, España  
+📍 Madrid, Spain  
 
 ---
 
-## 🧠 Sobre mí  
-Soy Data Analyst con una sólida trayectoria en operaciones y negocio, donde durante más de 7 años trabajé con métricas clave de ventas, costes, eficiencia, demanda y rendimiento. Esa experiencia me dio una comprensión profunda de cómo funcionan los procesos reales y de cómo los datos pueden mejorar decisiones, optimizar recursos y anticipar problemas.
+## 🧠 About Me  
+I am a **Data Analyst with a strong background in business operations**, where for more than 7 years I worked with key metrics such as sales, costs, margins, demand and operational efficiency. This experience gave me a deep understanding of how real businesses operate and how data can improve decision-making, optimize resources and anticipate problems.
 
-Tras formarme en Data Science & Analytics, incorporé herramientas como Python, SQL, Power BI y técnicas de análisis avanzado. Hoy combino mi experiencia operativa con capacidades técnicas para transformar datos complejos en información clara, visual y accionable.
+After transitioning into **Data Science & Analytics**, I developed technical skills in **Python, SQL and Power BI**. Today I combine my operational experience with analytical capabilities to transform complex datasets into **clear, visual and actionable insights**.
 
-Me especializo en:  
-- 📊 Análisis de negocio y KPIs  
-- 🧮 SQL para análisis y reporting  
-- 📈 Dashboards en Power BI  
-- 🐍 Python para análisis y automatización  
-- 🔍 Insights accionables orientados a impacto real  
-
----
-
-## 🧰 Mi stack de herramientas  
-
-| Categoría                    | Herramientas / Tecnologías                                |
-|------------------------------|-----------------------------------------------------------|
-| **Visualización**            | Power BI, Streamlit, Plotly, Seaborn, Matplotlib          |
-| **Análisis y Procesamiento** | pandas, numpy                                             |
-| **Bases de datos**           | PostgreSQL                                                |
-| **Lenguajes**                | Python                                                    |
-| **Entorno y Control**        | Git, GitHub                                               |
----
-
-## 📂 Proyectos destacados  
-
-### 🔹 **DashLogistics — Análisis y visualización end‑to‑end**
-Pipeline ETL + análisis + dashboard con KPIs de logística, tiempos, costes y eficiencia.  
-🔗 Repositorio: [DashLogistics](https://github.com/juandelaf1/DashLogistics)
-
-### 🔹 **Optimus Price — Pricing hotelero basado en datos**
-Análisis de demanda, estacionalidad y KPIs (ADR, RevPAR, ocupación) para optimizar precios y mejorar ingresos.  
-🔗 Repositorio: [OptimusPrice_proyecto_final_ML](https://github.com/juandelaf1/OptimusPrice_proyecto_final_ML)
-
-### 🔹 **EDA de vinos — Exploración y patrones de precio**
-Análisis exploratorio para identificar factores que influyen en el precio y calidad del vino.  
-🔗 Repositorio: [mas_alla_de_la_etiqueta_EDA](https://github.com/juandelaf1/mas_alla_de_la_etiqueta_EDA)
+I specialize in:  
+- 📊 Business and KPI analysis  
+- 🧮 SQL for data analysis and reporting  
+- 📈 Dashboard development in Power BI  
+- 🐍 Python for data analysis and automation  
+- 🔍 Actionable insights focused on business impact  
 
 ---
 
-## 💼 Qué aporto a una empresa  
-- 🔍 **Visión de negocio**: experiencia real en operaciones y métricas clave.  
-- 📊 **Rigor analítico**: datos limpios, KPIs claros y conclusiones accionables.  
-- 🚀 **Optimización**: foco en eficiencia, costes y mejora continua.  
-- 🤝 **Trabajo en equipo**: comunicación clara y orientación a resultados.  
-- 🧩 **Capacidad de ejecución**: si falta información, la busco; si algo no funciona, lo arreglo.  
+## 🧰 Tech Stack  
+
+| Category                     | Tools / Technologies                                   |
+|------------------------------|--------------------------------------------------------|
+| **Visualization**            | Power BI, Streamlit, Plotly, Seaborn, Matplotlib      |
+| **Data Analysis & Processing** | pandas, numpy                                       |
+| **Databases**                | PostgreSQL                                             |
+| **Programming Languages**    | Python                                                 |
+| **Version Control & Tools**  | Git, GitHub                                            |
 
 ---
 
-## 📬 Conectemos  
+## 📂 Featured Projects  
+
+### 🔹 **DashLogistics — End-to-End Logistics Analysis**
+ETL pipeline + data analysis + dashboard development to evaluate logistics performance through KPIs such as delivery time, operational costs and efficiency.  
+🔗 Repository: [DashLogistics](https://github.com/juandelaf1/DashLogistics)
+
+### 🔹 **Optimus Price — Data-Driven Hotel Pricing**
+Demand and seasonality analysis using hospitality KPIs (ADR, RevPAR, occupancy) to identify pricing optimization opportunities.  
+🔗 Repository: [OptimusPrice_proyecto_final_ML](https://github.com/juandelaf1/OptimusPrice_proyecto_final_ML)
+
+### 🔹 **Spanish Wine EDA — Price Pattern Exploration**
+Exploratory data analysis to identify relationships between wine price, region and quality ratings.  
+🔗 Repository: [mas_alla_de_la_etiqueta_EDA](https://github.com/juandelaf1/mas_alla_de_la_etiqueta_EDA)
+
+---
+
+## 💼 What I Bring to a Company  
+- 🔍 **Business perspective**: real experience working with operational metrics and performance indicators.  
+- 📊 **Analytical rigor**: clean data, clear KPIs and actionable conclusions.  
+- 🚀 **Optimization mindset**: focus on efficiency, cost control and continuous improvement.  
+- 🤝 **Team collaboration**: clear communication and results-oriented work.  
+- 🧩 **Execution mindset**: if information is missing, I find it; if something breaks, I fix it.  
+
+---
+
+## 📬 Let's Connect  
 🔗 **LinkedIn:** https://www.linkedin.com/in/juandelafuentelarrocca/  
 📧 **Email:** juandelafuentelarrocca@gmail.com  
