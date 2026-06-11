@@ -9,6 +9,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:juandelafuentelarrocca@gmail.com)
 [![Madrid](https://img.shields.io/badge/Madrid-Spain-red)]()
 
+![GitHub followers](https://img.shields.io/github/followers/juandelaf1?logo=github)
+![GitHub stars](https://img.shields.io/github/stars/juandelaf1?logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/juandelaf1/juandelaf1?logo=github)
+![GitHub repos](https://img.shields.io/badge/repos-23-blue?logo=github)
+
 > **Data Analyst** · SQL · Python · Power BI · Madrid, Spain
 
 Data analyst with 7+ years in business operations (sales, costs, margins, demand forecasting). I build end-to-end data pipelines, interactive dashboards, and actionable KPIs that drive measurable business outcomes.
