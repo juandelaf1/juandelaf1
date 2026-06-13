@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/juandelaf1/juandelaf1/blob/main/banner_juan.png" alt="Juan de la Fuente Banner" width="100%">
-</p>
+
 
 # 👋 Juan — Data Analyst
 
