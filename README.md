@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/juandelaf1/juandelaf1/raw/main/profile_banner.png" alt="Juan de la Fuente Banner" width="800">
+  <img src="https://github.com/juandelaf1/juandelaf1/blob/main/juan_banner.png" alt="Juan de la Fuente Banner" width="100%">
 </p>
 
 # 👋 Juan — Data Analyst
