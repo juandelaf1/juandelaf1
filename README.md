@@ -11,11 +11,11 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/juandelaf1?logo=github)
 ![GitHub stars](https://img.shields.io/github/stars/juandelaf1?logo=github)
-![GitHub repos](https://img.shields.io/badge/repos-24-blue?logo=github)
+![GitHub repos](https://img.shields.io/badge/repos-27-blue?logo=github)
 
 > **Data Analyst** · SQL · Python · Power BI · Business & Operations Analytics
 
-25+ years building systems, 2 in data — combining operational DNA with analytical rigor. I don't just extract value from data — I understand what value looks like because I've operated where the value is created.
+Background in business operations, now focused on data. I combine domain knowledge in sales, costs, and margins with analytical rigor in Python, SQL, and BI. I don't just extract value from data — I understand what value looks like because I've operated where it's created.
 
 Every project here produces measurable impact: predictive models that businesses trust, dashboards that inform critical decisions, data pipelines that transform raw inputs into actionable intelligence.
 
@@ -170,13 +170,11 @@ Every project here produces measurable impact: predictive models that businesses
 
 ---
 
-## 💼 Professional Journey
+## 💼 Approach
 
-I started by building the systems that manage sales, costs, and margins. Two years ago, I added data analysis to my toolkit. Now I bring both operational experience and analytical rigor to projects where data drives real business decisions.
-
-- **Background**: 25+ years in operations, understanding of business constraints and opportunities
-- **Transition**: 2 years in data, combining domain knowledge with modern analytics tools
-- **Delivery**: Full-stack solutions that address both the "what" and the "why" behind the data
+- **Domain-driven** — I come from operations. I know what margins, costs, and forecasts mean because I've worked with them directly.
+- **Technical** — Python, SQL, Power BI, ML. I build pipelines, models, and dashboards end-to-end.
+- **Outcome-focused** — Every project here has a measurable result: R² scores, CO₂ saved, revenue impact, hypotheses tested.
 
 ---
 
