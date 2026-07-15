@@ -4,7 +4,7 @@
 
 # Juan de la Fuente
 
-**Analytics Engineer** — Building reliable data systems close to business decisions.
+**Analytics Engineer** - Building reliable data systems close to business decisions.
 
 [LinkedIn](https://linkedin.com/in/juandelafuentelarrocca) · [Portfolio](https://juandelaf1.github.io) · [Email](mailto:juandelafuentelarrocca@gmail.com)
 
@@ -23,7 +23,7 @@ Before engineering data, I ran a business. Managing inventory, costs, logistics,
 
 ---
 
-**SkyCast** — Enterprise climate intelligence platform
+**SkyCast** - Enterprise climate intelligence platform
 
 **Problem:** Municipalities lacked unified real-time climate monitoring across 5 data sources.
 
@@ -31,35 +31,35 @@ Before engineering data, I ran a business. Managing inventory, costs, logistics,
 
 **Engineering focus:** 158 automated tests in CI/CD, circuit breaker pattern for external API failures, data quality checks at every pipeline stage.
 
-→ FastAPI · PostgreSQL · Streamlit · Docker · Python
+· FastAPI · PostgreSQL · Streamlit · Docker · Python
 
 ---
 
-**OptimusPrice** — ML-driven hotel revenue management
+**OptimusPrice** - ML-driven hotel revenue management
 
-**Problem:** Hotels rely on manual pricing or OTAs charging 15-30% commission — slow, reactive, and margin-eroding.
+**Problem:** Hotels rely on manual pricing or OTAs charging 15-30% commission - slow, reactive, and margin-eroding.
 
 **Built:** Random Forest regressor with Optuna hyperparameter optimization, feature engineering pipeline extracting 40+ demand signals from booking history and competitor data, served via FastAPI inference endpoint, Streamlit management dashboard with confidence intervals.
 
 **Engineering focus:** Model interpretability (feature importance scores for stakeholder trust), automated retraining when MAPE exceeds 20%, input validation rejecting out-of-range features.
 
-→ Python · scikit-learn · Optuna · Streamlit · Docker
+· Python · scikit-learn · Optuna · Streamlit · Docker
 
 ---
 
-**DashLogistics** — Multi-market logistics intelligence
+**DashLogistics** - Multi-market logistics intelligence
 
 **Problem:** Logistics providers need route-level cost prediction across 50 US states with multiple data sources updating at different cadences.
 
-**Built:** Multi-source ETL pipeline ingesting fuel prices (AAA API, daily), weather (OpenWeatherMap, hourly), population data, and operational records. XGBoost cost prediction with Optuna tuning. Streamlit dashboard tracking 15+ KPIs with state-level maps.
+**Built:** Multi-source ETL pipeline ingesting fuel prices (AAA API, daily), weather (OpenWeatherMap, hourly), population data, and operational records. XGBoost cost prediction with Optuna tuning. Streamlit dashboard tracking 15+ KPIs with state-level maps. dbt layer with staging, intermediate, and mart models for analytics engineering.
 
 **Engineering focus:** Data quality gate preventing bad data from reaching the model, decoupled ingestion from prediction (single source failure doesn't block pipeline), confidence scoring for partial feature availability.
 
-→ Python · Pandas · XGBoost · Streamlit · PostgreSQL · Docker
+· Python · Pandas · XGBoost · Streamlit · PostgreSQL · Docker · dbt
 
 ---
 
-**NetTension** — EU telecom network stress simulation
+**NetTension** - EU telecom network stress simulation
 
 **Problem:** EU regulators need quantitative evidence of the "scissors effect" (traffic growing exponentially while revenue declines) to inform infrastructure policy.
 
@@ -67,7 +67,7 @@ Before engineering data, I ran a business. Managing inventory, costs, logistics,
 
 **Engineering focus:** Hypothesis-first methodology preventing confirmation bias, DuckDB enabling sub-30-second query times on a laptop without infrastructure provisioning, fully containerized reproducible analysis.
 
-→ Python · DuckDB · Power BI · Docker
+· Python · DuckDB · Power BI · Docker
 
 ---
 
@@ -77,18 +77,28 @@ Before engineering data, I ran a business. Managing inventory, costs, logistics,
 
 ### Currently building
 
-- **Golden Forecast** — ML pipeline and dashboard for gold price prediction. Docker + CI/CD in progress.
-- **DataScope** — Multi-source salary analytics platform aggregating compensation data across industries.
+- **Golden Forecast** - ML forecasting pipeline and dashboard for gold price prediction. End-to-end: extraction, 35 engineered features, 12 models, Docker deployment with CI/CD.
+- **dbt on DashLogistics** - Analytics engineering layer: staging, intermediate, and mart models transforming logistics data for dashboard consumption.
 
 ---
 
 ### Approach
 
-1. **Understand** — Map the business context, identify the decision, define success.
-2. **Model** — Design architecture before writing production code.
-3. **Build** — Implement with tests at every layer, validation at every boundary.
-4. **Measure** — Validate output against the original business problem.
+1. **Understand** - Map the business context, identify the decision, define success.
+2. **Model** - Design architecture before writing production code.
+3. **Build** - Implement with tests at every layer, validation at every boundary.
+4. **Measure** - Validate output against the original business problem.
 
 ---
 
-[Let's connect →](https://linkedin.com/in/juandelafuentelarrocca)
+### Repository map
+
+Some repositories have been archived or set to private to reflect my current Analytics Engineering focus:
+- **Private:** academic projects and early prototypes
+- **Archived:** mintlify-docs, docs, DataScope (fork), and early Python scripts
+- **Public featured repos:** SkyCast, OptimusPrice, DashLogistics, NetTension, Golden Forecast
+- **Public experiments:** EnRuta, Attention Observatory, Spanish Wine EDA
+
+---
+
+[Let's connect](https://linkedin.com/in/juandelafuentelarrocca)
