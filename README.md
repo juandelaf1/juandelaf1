@@ -5,70 +5,37 @@
 
 ---
 
-## 👋 Bienvenido
+## 👋 About Me
 
 Data Scientist e Engineer especializado en **Inteligencia Geoespacial, Machine Learning y APIs**. Construyo plataformas basadas en datos para toma de decisiones empresariales, desde modelado predictivo hasta visualización de riesgo climático.
 
 ---
 
-## 🧪 ¿Qué hago?
+## 🧪 Technical Skills
 
-Trabajo con:
+### 🔭 Core Areas
+- **Geospatial & Remote Sensing** — Análisis de riesgo geo, clustering hexagonal (Uber H3), integración de datos oficiales (AEMET, USGS, NOAA)
+- **Machine Learning Predictive** — Series temporales, regresión y clasificación, validación rigorosa con 180+ tests verificables
+- **Backend APIs with FastAPI** — Autenticación JWT, endpoints documentados (Swagger), despliegue Docker + Render
+- **Data Engineering Pipelines** — ETL, procesamiento batch, línea de trazabilidad (lineage), integración de fuentes múltiples
+- **Web Scraping with Local AI** — Extracción sin APIs de terceros, Ollama local, Playwright, scraping ético
 
-- ✅ **Geospatial & Remote Sensing** — Análisis de riesgo geo, clustering espacial, H3 grids, integración de datos oficiales (AEMET, USGS, NOAA)
-- ✅ **Machine Learning Predictive** — Series temporales, modelos de regresión y clasificación, validación rigorosa, 180+ tests verificables
-- ✅ **Backend APIs FastAPI** — Autenticación JWT, endpoints documentados (Swagger), despliegue Docker + Render
-- ✅ **Data Engineering pipelines** — ETL, procesamiento batch, línea de trazabilidad (lineage), integración de fuentes múltiples
-- ✅ **Web Scraping con IA local** — Extracción sin APIs de terceros, Ollama local, Playwright, scraping ético
-
----
-
-## 📂 Proyectos Destacados (Fijados)
-
-| Repositorio | Descripción |
-|-------------|-------------|
-| [GeoRisk_Finder](https://github.com/juandelaf1/GeoRisk_Finder) | Plataforma riesgo geoespacial con clustering H3 y ML financiero |
-| [SkyCast](https://github.com/juandelaf1/SkyCast) | Inteligencia climática empresarial con AEMET datos y FastAPI |
-| [Anexo_Risk_limpio](https://github.com/juandelaf1/Anexo_Risk_limpio) | API FastAPI con autenticación JWT y análisis de riesgo |
-| [EnRuta](https://github.com/juandelaf1/EnRuta) | Engineering analítico: procesamiento GIS con DuckDB y Streamlit |
-| [RASPAL_SCRAPER](https://github.com/juandelaf1/RASPAL_SCRAPER) | Scraping + IA local: extracción sin APIs de terceros |
-| [CASE](https://github.com/juandelaf1/CASE) | Orchestration decisiones IA con supervisión humana (HITL) |
-
----
-
-## 📊 Tech Stack
-
-### Lenguajes y Fundamentals
+### 🛠️ Technologies
 <p>
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white" alt="Python">
 </p>
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
 </p>
-
-### ML & Data Science
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" alt="Numpy">
-</p>
-
-### Cloud & Deployment
 <p>
   <img src="https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi&logoColor=white" alt="FastAPI">
 </p>
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
 </p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
-</p>
-
-### Tools & Methods
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
@@ -81,7 +48,20 @@ Trabajo con:
 
 ---
 
-## 📬 Contacto
+## 📂 Pinned Repositories
+
+| Repositorio | Descripción |
+|-------------|-------------|
+| [GeoRisk_Finder](https://github.com/juandelaf1/GeoRisk_Finder) | Plataforma riesgo geoespacial con clustering H3 y modelos de inversión financiera |
+| [SkyCast](https://github.com/juandelaf1/SkyCast) | Inteligencia climática empresarial con datos AEMET y API FastAPI |
+| [Anexo_Risk_limpio](https://github.com/juandelaf1/Anexo_Risk_limpio) | API FastAPI con autenticación JWT y análisis de riesgo estructurado |
+| [EnRuta](https://github.com/juandelaf1/EnRuta) | Engineering analítico: procesamiento GIS con DuckDB y visualización Streamlit |
+| [RASPAL_SCRAPER](https://github.com/juandelaf1/RASPAL_SCRAPER) | Scraping + IA local: extracción sin APIs de terceros, Ollama y Playwright |
+| [CASE](https://github.com/juandelaf1/CASE) | Orchestration decisiones IA con supervisión humana (HITL) y políticas conservadoras |
+
+---
+
+## 📬 Contact
 
 **Portfolio web:** [juandelaf1.github.io](https://juandelaf1.github.io)
 
@@ -91,4 +71,4 @@ Trabajo con:
 
 ---
 
-*Perfil actualizado: October 2026*
+*Perfil profesional — October 2026*
