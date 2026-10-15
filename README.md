@@ -4,9 +4,9 @@
 
 # Juan de la Fuente
 
-**Analytics Engineer** - Building reliable data systems close to business decisions.
+**Analytics Engineer** — building reliable data systems close to business decisions.
 
-[LinkedIn](https://linkedin.com/in/juandelafuentelarrocca) · [Portfolio](https://juandelaf1.github.io) · [Email](mailto:juandelafuentelarrocca@gmail.com)
+[LinkedIn](https://linkedin.com/in/juandelafuentelarrocca) · [Portfolio](https://juandelaf1.github.io)
 
 ---
 
@@ -23,81 +23,62 @@ Before engineering data, I ran a business. Managing inventory, costs, logistics,
 
 ---
 
-**SkyCast** - Enterprise climate intelligence platform
+**[GeoRisk_Finder](https://github.com/juandelaf1/GeoRisk_Finder)** — Climate risk intelligence
 
-**Problem:** Municipalities lacked unified real-time climate monitoring across 5 data sources.
+Climate risk platform with 3D globe visualization, H3 spatial cells, and live data from USGS/IBTrACS/GVP/GDACS. Actuarial risk model, multi-tenant projects, and WebSocket alerts.
 
-**Built:** Modular ingestion pipeline from AEMET OpenData and crowdsourced reports, validated through Pydantic, stored in PostgreSQL with time-series partitioning, served via FastAPI REST API, visualized in Streamlit dashboard with alert engine.
+· Python · Mapbox · H3 · WebSockets · PostgreSQL
 
-**Engineering focus:** 158 automated tests in CI/CD, circuit breaker pattern for external API failures, data quality checks at every pipeline stage.
+---
+
+**[SkyCast](https://github.com/juandelaf1/SkyCast)** — Enterprise climate intelligence platform
+
+Municipalities lacked unified real-time climate monitoring. Built modular ingestion from AEMET OpenData and crowdsourced reports, validated with Pydantic, stored in PostgreSQL with time-series partitioning, served via FastAPI, visualized in Streamlit with an alert engine. 180 automated tests in CI/CD; circuit breaker for external API failures; data quality checks at every pipeline stage.
 
 · FastAPI · PostgreSQL · Streamlit · Docker · Python
 
 ---
 
-**OptimusPrice** - ML-driven hotel revenue management
+**[Anexo_Risk](https://github.com/juandelaf1/Anexo_Risk)** — Risk analysis platform (v2.x)
 
-**Problem:** Hotels rely on manual pricing or OTAs charging 15-30% commission - slow, reactive, and margin-eroding.
+Full-stack risk management application with JWT authentication, role-based access, and modular backend services.
 
-**Built:** Random Forest regressor with Optuna hyperparameter optimization, feature engineering pipeline extracting 40+ demand signals from booking history and competitor data, served via FastAPI inference endpoint, Streamlit management dashboard with confidence intervals.
-
-**Engineering focus:** Model interpretability (feature importance scores for stakeholder trust), automated retraining when MAPE exceeds 20%, input validation rejecting out-of-range features.
-
-· Python · scikit-learn · Optuna · Streamlit · Docker
+· FastAPI · SQLAlchemy · PostgreSQL · JWT
 
 ---
 
-**DashLogistics** - Multi-market logistics intelligence
+**[EnRuta](https://github.com/juandelaf1/EnRuta)** — Collaborative rural logistics platform
 
-**Problem:** Logistics providers need route-level cost prediction across 50 US states with multiple data sources updating at different cadences.
+Collaborative logistics platform for rural route coordination, designed for low-connectivity environments and shared operational visibility.
 
-**Built:** Multi-source ETL pipeline ingesting fuel prices (AAA API, daily), weather (OpenWeatherMap, hourly), population data, and operational records. XGBoost cost prediction with Optuna tuning. Streamlit dashboard tracking 15+ KPIs with state-level maps. dbt layer with staging, intermediate, and mart models for analytics engineering.
-
-**Engineering focus:** Data quality gate preventing bad data from reaching the model, decoupled ingestion from prediction (single source failure doesn't block pipeline), confidence scoring for partial feature availability.
-
-· Python · Pandas · XGBoost · Streamlit · PostgreSQL · Docker · dbt
+· Python · FastAPI · PostgreSQL · Docker
 
 ---
 
-**NetTension** - EU telecom network stress simulation
+**[RASPAL_SCRAPER](https://github.com/juandelaf1/RASPAL_SCRAPER)** — Web scraping + local AI extraction
 
-**Problem:** EU regulators need quantitative evidence of the "scissors effect" (traffic growing exponentially while revenue declines) to inform infrastructure policy.
+Turns any URL into structured JSON using local AI extraction. No API keys, no data leaving your machine — privacy-first web data extraction.
 
-**Built:** DuckDB-powered analytical pipeline processing 41,937 rows of CNMC regulatory data joined with 1.8M+ Eurostat macroindicators. Six pre-registered hypotheses tested using regression analysis and time-series decomposition. Power BI dashboard for interactive exploration.
+· Python · BeautifulSoup · Ollama · JSON
 
-**Engineering focus:** Hypothesis-first methodology preventing confirmation bias, DuckDB enabling sub-30-second query times on a laptop without infrastructure provisioning, fully containerized reproducible analysis.
+---
 
-· Python · DuckDB · Power BI · Docker
+**[CASE](https://github.com/juandelaf1/CASE)** — Conservative AI decision orchestration
+
+Case Assessment and Structured Evaluation: conservative AI decision orchestration for operational workflows, with structured evaluation gates before any action.
+
+· Python · LLM Orchestration · Structured Evaluation
 
 ---
 
 *Full case studies with architecture diagrams at [juandelaf1.github.io](https://juandelaf1.github.io)*
 
----
-
-### Currently building
-
-- **Golden Forecast** - ML forecasting pipeline and dashboard for gold price prediction. End-to-end: extraction, 35 engineered features, 12 models, Docker deployment with CI/CD.
-- **dbt on DashLogistics** - Analytics engineering layer: staging, intermediate, and mart models transforming logistics data for dashboard consumption.
-
----
-
 ### Approach
 
-1. **Understand** - Map the business context, identify the decision, define success.
-2. **Model** - Design architecture before writing production code.
-3. **Build** - Implement with tests at every layer, validation at every boundary.
-4. **Measure** - Validate output against the original business problem.
-
----
-
-### Repository map
-
-Some repositories have been archived or set to private to reflect my current Analytics Engineering focus:
-- **Private:** academic projects and early prototypes
-- **Archived:** mintlify-docs, docs, DataScope (fork), and early Python scripts
-- **Public featured repos:** SkyCast, OptimusPrice, DashLogistics, NetTension, Golden Forecast
-- **Public experiments:** EnRuta, Attention Observatory, Spanish Wine EDA
+1. **Understand** — map the business context, identify the decision, define success.
+2. **Model** — design the architecture before writing production code.
+3. **Build** — implement with tests at every layer, validation at every boundary.
+4. **Measure** — validate output against the original business problem.
 
 ---
 
