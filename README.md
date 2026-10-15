@@ -15,7 +15,7 @@ Data Scientist e Engineer especializado en **Inteligencia Geoespacial, Machine L
 
 ### 🔭 Core Areas
 - **Geospatial & Remote Sensing** — Análisis de riesgo geo, clustering espacial, H3 grids, integración de datos oficiales (AEMET, USGS, NOAA)
-- **Machine Learning Predictive** — Series temporales, modelos de regresión y clasificación, validación rigorosa, 180+ tests verificables
+- **Machine Learning Predictive** — Series temporales, modelos de regresión y clasificación, validación rigorosa, tests verificables
 - **Backend APIs FastAPI** — Autenticación JWT, endpoints documentados (Swagger), despliegue Docker + Render
 - **Data Engineering pipelines** — ETL, procesamiento batch, línea de trazabilidad (lineage), integración de fuentes múltiples
 - **Web Scraping con IA local** — Extracción sin APIs de terceros, Ollama local, Playwright, scraping ético
@@ -27,8 +27,8 @@ Data Scientist e Engineer especializado en **Inteligencia Geoespacial, Machine L
 | Repositorio | Descripción |
 |-------------|-------------|
 | [GeoRisk_Finder](https://github.com/juandelaf1/GeoRisk_Finder) | Plataforma riesgo geoespacial con clustering H3 y ML financiero |
-| [SkyCast](https://github.com/juandelaf1/SkyCast) | Inteligencia climática empresarial con AEMET datos y FastAPI |
-| [Anexo_Risk_limpio](https://github.com/juandelaf1/Anexo_Risk_limpio) | API FastAPI con autenticación JWT y análisis de riesgo |
+| [SkyCast](https://github.com/juandelaf1/SkyCast) | Inteligencia climática empresarial con datos AEMET y FastAPI |
+| [Anexo_Risk](https://github.com/juandelaf1/Anexo_Risk) | API FastAPI refinada con autenticación JWT y análisis de riesgo |
 | [EnRuta](https://github.com/juandelaf1/EnRuta) | Engineering analítico: procesamiento GIS con DuckDB y Streamlit |
 | [RASPAL_SCRAPER](https://github.com/juandelaf1/RASPAL_SCRAPER) | Scraping + IA local: extracción sin APIs de terceros |
 | [CASE](https://github.com/juandelaf1/CASE) | Orchestration decisiones IA con supervisión humana (HITL) |
