@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/juandelaf1/juandelaf1/raw/main/banner_Juan_Nuevo.jpg" alt="Juan de la Fuente Banner" width="100%">
+  <img src="https://github.com/juandelaf1/juandelaf1/raw/main/banner_Juan_analytics.jpg" alt="Juan de la Fuente Banner" width="100%">
 </p>
 
 # Juan de la Fuente
