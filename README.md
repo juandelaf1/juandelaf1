@@ -85,14 +85,17 @@ Decision orchestration that treats LLM output as a proposal and applies validati
 **Visual evidence:** [repository banner](https://raw.githubusercontent.com/juandelaf1/CASE/main/docs/images/CASE_banner.jpg) (visual identity, **not** an application screenshot).
 
 ### 5) [RASPAL_SCRAPER](https://github.com/juandelaf1/RASPAL_SCRAPER) — Data Ingestion & Automation
-CLI tools and pipelines to fetch web content and extract structured data, with multiple scraping engines and local-first AI workflows. Designed to keep processing local by default.
+CLI tools and pipelines to fetch web content and extract structured data, with multiple scraping engines (including Scrapling and Playwright) and local-first AI workflows. Designed to keep processing local by default.
 
 **Demonstrates:** web ingestion · structured extraction · automation · local processing  
-**Stack:** Python · Web scraping · Playwright · Ollama · Docker/CI  
+**Stack:** Python · Scrapling · Playwright · Ollama · Docker/CI  
 **Visual evidence:** [repository banner](https://raw.githubusercontent.com/juandelaf1/RASPAL_SCRAPER/main/assets/raspal_scrapper_banner.png) (visual identity, **not** an application screenshot).
 
 ### 6) [GeoRisk_Finder](https://github.com/juandelaf1/GeoRisk_Finder) — Geospatial Analytics & Risk *(collaborative)*
-A geospatial multi-hazard risk analysis platform using an H3 grid, multi-source data integration (e.g., seismic, cyclone, volcanic), clustering, and an interactive Streamlit dashboard. **Collaborative project** (academic/data science origin). Financial/BCR outputs, when presented, are framed as **analysis models or scenarios**, not real financial results or demonstrated production capabilities.
+A geospatial multi-hazard risk analysis platform using an H3 grid, multi-source data integration (e.g., seismic, cyclone, volcanic), clustering, and an interactive Streamlit dashboard.
+
+> [!NOTE]
+> **Collaborative project (academic/data science).** Developed in a team setting, with shared ownership, clear interfaces, and documented assumptions/modeling choices. Financial/BCR outputs, when presented, are framed as analysis models or scenarios—not real financial results or demonstrated production capabilities.
 
 **Demonstrates:** geospatial analytics · multi-hazard data integration · clustering · interactive visualization  
 **Stack:** Python · H3/Geospatial · scikit-learn · Streamlit · Visualization  

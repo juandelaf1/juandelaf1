@@ -85,14 +85,17 @@ Orquestación de decisiones que trata la salida del LLM como propuesta y aplica 
 **Evidencia visual:** [banner del repositorio](https://raw.githubusercontent.com/juandelaf1/CASE/main/docs/images/CASE_banner.jpg) (identidad visual, **no** captura de aplicación).
 
 ### 5) [RASPAL_SCRAPER](https://github.com/juandelaf1/RASPAL_SCRAPER) — Data Ingestion & Automation
-Herramientas CLI y pipelines para obtener contenido web y extraer datos estructurados, con múltiples motores de scraping y flujos de IA local-first. Diseñado para mantener el procesamiento local por defecto.
+Herramientas CLI y pipelines para obtener contenido web y extraer datos estructurados, con múltiples motores de scraping (incluidos Scrapling y Playwright) y flujos de IA local-first. Diseñado para mantener el procesamiento local por defecto.
 
 **Demuestra:** ingesta web · extracción estructurada · automatización · procesamiento local  
-**Stack:** Python · Web scraping · Playwright · Ollama · Docker/CI  
+**Stack:** Python · Scrapling · Playwright · Ollama · Docker/CI  
 **Evidencia visual:** [banner del repositorio](https://raw.githubusercontent.com/juandelaf1/RASPAL_SCRAPER/main/assets/raspal_scrapper_banner.png) (identidad visual, **no** captura de aplicación).
 
 ### 6) [GeoRisk_Finder](https://github.com/juandelaf1/GeoRisk_Finder) — Geospatial Analytics & Risk *(collaborative)*
-Plataforma de análisis geoespacial de riesgo multiamenaza con malla H3, integración de fuentes (p. ej., sísmicas, ciclones, volcánicas) y clustering, con dashboard interactivo en Streamlit. **Proyecto colaborativo** (origen académico/data science). Las salidas financieras/BCR, cuando se presentan, se formulan como **modelos o escenarios de análisis**, no como resultados financieros reales ni funcionalidades productivas demostradas.
+Plataforma de análisis geoespacial de riesgo multiamenaza con malla H3, integración de fuentes (p. ej., sísmicas, ciclones, volcánicas) y clustering, con dashboard interactivo en Streamlit.
+
+> [!NOTE]
+> **Proyecto colaborativo (académico/data science).** Desarrollado en equipo, con responsabilidad compartida, interfaces claras y supuestos/decisiones de modelado documentados. Las salidas financieras/BCR, cuando se presentan, se formulan como modelos o escenarios de análisis, no como resultados financieros reales ni funcionalidades productivas demostradas.
 
 **Demuestra:** analítica geoespacial · integración multiamenaza · clustering · visualización interactiva  
 **Stack:** Python · H3/Geoespacial · scikit-learn · Streamlit · Visualización  
