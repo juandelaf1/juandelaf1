@@ -1,5 +1,7 @@
+🌐 **EN** | [ES](README.es.md)
+
 <p align="center">
-  <img src="https://github.com/juandelaf1/juandelaf1/raw/main/banner_Juan_analytics.jpg" alt="Banner profesional de Juan de la Fuente, Analytics Engineer" width="100%">
+  <img src="https://github.com/juandelaf1/juandelaf1/raw/main/banner_Juan_analytics.jpg" alt="Professional banner for Juan de la Fuente, Analytics Engineer" width="100%">
 </p>
 
 <h1 align="center">Juan de la Fuente</h1>
@@ -7,7 +9,7 @@
 <p align="center"><strong>Analytics Engineer · Data &amp; AI Solutions</strong></p>
 
 <p align="center">
-  Diseño soluciones de datos orientadas a decisiones: desde el problema de negocio hasta pipelines, APIs y productos analíticos con validación, calidad y trazabilidad.
+  I design data solutions that support better decisions: from business context to pipelines, APIs, and analytical products with validation, quality, and traceability.
 </p>
 
 <p align="center">
@@ -20,15 +22,15 @@
 
 ## About
 
-Antes de la ingeniería de datos, gestioné un negocio. Controlar inventario, costes, logística y márgenes me enseñó que los datos solo aportan valor cuando ayudan a tomar una decisión mejor. Ese criterio guía mi trabajo: entender el contexto, modelar con claridad e implementar soluciones verificables.
+Before working in data engineering, I ran a business. Managing inventory, costs, logistics, and margins taught me that data only creates value when it helps someone make a better decision. That perspective shapes my work: understand the context, model with clarity, and build solutions that can be verified.
 
 ## Professional focus
 
-| Área | Capacidades |
+| Area | Capabilities |
 |---|---|
-| **Analytics Engineering** | Modelado de datos, ETL/ELT, SQL y Python, calidad de datos, testing y validación |
-| **Data & BI** | Exploración y análisis, dashboards, visualización, interpretación de resultados orientada a decisiones |
-| **Engineering & AI** | APIs e integraciones, ingesta y automatización, gobernanza/validación, soluciones RAG e IA aplicada cuando el caso lo requiere |
+| **Analytics Engineering** | Data modeling, ETL/ELT, SQL and Python, data quality, testing and validation |
+| **Data & BI** | Data exploration and analysis, dashboards, visualization, decision-oriented interpretation |
+| **Engineering & AI** | APIs and integrations, ingestion and automation, governance/validation, RAG and applied AI solutions when appropriate |
 
 ## Technical toolkit
 
@@ -46,55 +48,55 @@ Antes de la ingeniería de datos, gestioné un negocio. Controlar inventario, co
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white">
 </p>
 
-<sub>Herramientas representativas, respaldadas por experiencia y proyectos verificables.</sub>
+<sub>Representative tools, supported by verifiable experience and projects.</sub>
 
 ---
 
 ## Featured projects
 
-Selección curada de **6 capacidades** (presentación uniforme, legible en móvil): analytics/BI, APIs e integración, RAG, gobernanza HITL, ingesta/automatización y análisis geoespacial.
+A curated selection of **6 capabilities** (uniform, mobile-friendly layout): analytics/BI, APIs and integration, RAG, HITL decision governance, ingestion/automation, and geospatial analysis.
 
 ### 1) [NetTension](https://github.com/juandelaf1/NetTension) — Analytics, ETL & BI
-Análisis trazable de dinámicas de tráfico e ingresos en telecom (CNMC/Eurostat) con pipeline ETL reproducible y dashboard interactivo en Streamlit. Evalúa hipótesis predefinidas con procedencia explícita de los datos.
+Traceable analysis of traffic and revenue dynamics in telecom (CNMC/Eurostat), with a reproducible ETL pipeline and an interactive Streamlit dashboard. Evaluates predefined hypotheses with explicit data provenance.
 
-**Demuestra:** ETL reproducible · análisis de datos · hipótesis/resultados trazables · BI interactivo  
-**Stack:** Python · Pandas · ETL · Streamlit · Visualización  
-**Evidencia visual:** [captura real del dashboard](https://raw.githubusercontent.com/juandelaf1/NetTension/main/assets/screenshots/01_market_overview.png) (recurso del repositorio).
+**Demonstrates:** reproducible ETL · data analysis · traceable hypotheses/results · interactive BI  
+**Stack:** Python · Pandas · ETL · Streamlit · Visualization  
+**Visual evidence:** [real dashboard screenshot](https://raw.githubusercontent.com/juandelaf1/NetTension/main/assets/screenshots/01_market_overview.png) (repository resource).
 
 ### 2) [SkyCast](https://github.com/juandelaf1/SkyCast) — APIs & Data Integration
-Servicios FastAPI de inteligencia climática para integración por contratos: `POST /api/v1/route-weather`, `POST /api/v1/validate-observation`, health/readiness y controles operativos configurables (m2m/scopes, rate limiting, auditoría, CORS y cabeceras de seguridad). Incluye módulos de ingesta/ETL y monitorización.
+FastAPI services for climate-data integration through contracts: `POST /api/v1/route-weather`, `POST /api/v1/validate-observation`, health/readiness, and configurable operational controls (m2m/scopes, rate limiting, audit, CORS, and security headers). Includes ingestion/ETL and monitoring modules.
 
-**Demuestra:** diseño de API · contratos y validación · integración de datos · operación/seguridad configurable  
+**Demonstrates:** API design · contracts and validation · data integration · configurable operations/security  
 **Stack:** FastAPI · Python · Pydantic · PostgreSQL/SQLAlchemy · Docker  
-**Evidencia visual:** no se incluye captura en esta tarjeta; ver documentación técnica y recursos del [repositorio](https://github.com/juandelaf1/SkyCast).
+**Visual evidence:** no screenshot included in this card; see technical documentation and resources in the [repository](https://github.com/juandelaf1/SkyCast).
 
 ### 3) [AsesorIA](https://github.com/juandelaf1/AsesorIA) — RAG & Grounded AI
-Asistente conversacional con recuperación aumentada (RAG) orientado a respuestas fundamentadas, con trazabilidad documental (documento/página) y abstención cuando la evidencia es insuficiente. Incluye interfaz conversacional, recuperación vectorial, evaluación y configuración con contenedores/CI.
+A conversational retrieval-augmented (RAG) assistant focused on grounded answers, with document/page traceability and abstention when evidence is insufficient. Includes a conversational interface, vector retrieval, evaluation, and a containerized/CI development setup.
 
-**Demuestra:** RAG y grounding · trazabilidad · control por evidencia · IA aplicada con rigor  
+**Demonstrates:** RAG and grounding · traceability · evidence-based control · rigorous applied AI  
 **Stack:** Python · LangChain · ChromaDB · Embeddings · Chainlit · Docker/CI  
-**Evidencia visual:** no se incluye captura (sin recurso representativo verificado como evidencia canónica de UI).
+**Visual evidence:** no screenshot included (no verified representative resource used as canonical UI evidence).
 
 ### 4) [CASE](https://github.com/juandelaf1/CASE) — Decision Governance & HITL
-Orquestación de decisiones que trata la salida del LLM como propuesta y aplica validación, comprobaciones de fiabilidad/riesgo y supervisión humana (human-in-the-loop). Proyecto de portfolio/investigación con limitaciones explícitas (no presentado como despliegue en producción).
+Decision orchestration that treats LLM output as a proposal and applies validation, reliability/risk checks, and human-in-the-loop oversight. A portfolio/research project with explicit limitations (not presented as a production deployment).
 
-**Demuestra:** HITL · validación estructurada · fiabilidad · gobernanza de decisiones asistidas  
-**Stack:** Python · Pydantic · FastAPI · Patrones de fiabilidad  
-**Evidencia visual:** [banner del repositorio](https://raw.githubusercontent.com/juandelaf1/CASE/main/docs/images/CASE_banner.jpg) (identidad visual, **no** captura de aplicación).
+**Demonstrates:** HITL · structured validation · reliability · assisted decision governance  
+**Stack:** Python · Pydantic · FastAPI · Reliability patterns  
+**Visual evidence:** [repository banner](https://raw.githubusercontent.com/juandelaf1/CASE/main/docs/images/CASE_banner.jpg) (visual identity, **not** an application screenshot).
 
 ### 5) [RASPAL_SCRAPER](https://github.com/juandelaf1/RASPAL_SCRAPER) — Data Ingestion & Automation
-Herramientas CLI y pipelines para obtener contenido web y extraer datos estructurados, con múltiples motores de scraping y flujos de IA local-first. Diseñado para mantener el procesamiento local por defecto.
+CLI tools and pipelines to fetch web content and extract structured data, with multiple scraping engines and local-first AI workflows. Designed to keep processing local by default.
 
-**Demuestra:** ingesta web · extracción estructurada · automatización · procesamiento local  
+**Demonstrates:** web ingestion · structured extraction · automation · local processing  
 **Stack:** Python · Web scraping · Playwright · Ollama · Docker/CI  
-**Evidencia visual:** [banner del repositorio](https://raw.githubusercontent.com/juandelaf1/RASPAL_SCRAPER/main/assets/raspal_scrapper_banner.png) (identidad visual, **no** captura de aplicación).
+**Visual evidence:** [repository banner](https://raw.githubusercontent.com/juandelaf1/RASPAL_SCRAPER/main/assets/raspal_scrapper_banner.png) (visual identity, **not** an application screenshot).
 
 ### 6) [GeoRisk_Finder](https://github.com/juandelaf1/GeoRisk_Finder) — Geospatial Analytics & Risk *(collaborative)*
-Plataforma de análisis geoespacial de riesgo multiamenaza con malla H3, integración de fuentes (p. ej., sísmicas, ciclones, volcánicas) y clustering, con dashboard interactivo en Streamlit. **Proyecto colaborativo** (origen académico/data science). Las salidas financieras/BCR, cuando se presentan, se formulan como **modelos o escenarios de análisis**, no como resultados financieros reales ni funcionalidades productivas demostradas.
+A geospatial multi-hazard risk analysis platform using an H3 grid, multi-source data integration (e.g., seismic, cyclone, volcanic), clustering, and an interactive Streamlit dashboard. **Collaborative project** (academic/data science origin). Financial/BCR outputs, when presented, are framed as **analysis models or scenarios**, not real financial results or demonstrated production capabilities.
 
-**Demuestra:** analítica geoespacial · integración multiamenaza · clustering · visualización interactiva  
-**Stack:** Python · H3/Geoespacial · scikit-learn · Streamlit · Visualización  
-**Evidencia visual:** no se incluye captura en esta tarjeta (sin recurso representativo verificado).
+**Demonstrates:** geospatial analytics · multi-hazard data integration · clustering · interactive visualization  
+**Stack:** Python · H3/Geospatial · scikit-learn · Streamlit · Visualization  
+**Visual evidence:** no screenshot included in this card (no verified representative resource).
 
 ---
 
@@ -102,9 +104,9 @@ Plataforma de análisis geoespacial de riesgo multiamenaza con malla H3, integra
 
 ```mermaid
 flowchart LR
-  A[Understand<br/>problema y decisión] --> B[Model<br/>datos y enfoque]
-  B --> C[Build<br/>validación y pruebas]
-  C --> D[Measure<br/>resultado vs objetivo]
+  A[Understand<br/>problem and decision] --> B[Model<br/>data and approach]
+  B --> C[Build<br/>validation and tests]
+  C --> D[Measure<br/>results vs objective]
 ```
 
 ## Contact
@@ -113,4 +115,4 @@ flowchart LR
 - LinkedIn: [linkedin.com/in/juandelafuentelarrocca](https://linkedin.com/in/juandelafuentelarrocca)
 - GitHub: [@juandelaf1](https://github.com/juandelaf1)
 
-<sub>Perfiles y enlaces verificados al momento de esta propuesta.</sub>
+<sub>Profiles and links verified at the time of this proposal.</sub>
