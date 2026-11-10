@@ -73,8 +73,7 @@ Análisis trazable de dinámicas de tráfico e ingresos en telecom (CNMC/Eurosta
 Herramientas CLI y pipelines para obtener contenido web y extraer datos estructurados, con múltiples motores de scraping (incluidos Scrapling y Playwright) y flujos de IA local-first. Diseñado para mantener el procesamiento local por defecto.
 
 **Demuestra:** ingesta web · extracción estructurada · automatización · procesamiento local  
-**Stack:** Python · Scrapling · Playwright · Ollama · Docker/CI  
-**Evidencia visual:** [banner del repositorio](https://raw.githubusercontent.com/juandelaf1/RASPAL_SCRAPER/main/assets/raspal_scrapper_banner.png) (identidad visual, **no** captura de aplicación).
+**Stack:** Python · Scrapling · Playwright · Ollama · Docker/CI
 
 ### 4) [AsesorIA](https://github.com/juandelaf1/AsesorIA) — RAG & Grounded AI
 Asistente conversacional con recuperación aumentada (RAG) orientado a respuestas fundamentadas, con trazabilidad documental (documento/página) y abstención cuando la evidencia es insuficiente. Incluye interfaz conversacional, recuperación vectorial, evaluación y configuración con contenedores/CI.
@@ -86,8 +85,7 @@ Asistente conversacional con recuperación aumentada (RAG) orientado a respuesta
 Orquestación de decisiones que trata la salida del LLM como propuesta y aplica validación, comprobaciones de fiabilidad/riesgo y supervisión humana (human-in-the-loop). Proyecto de portfolio/investigación con limitaciones explícitas (no presentado como despliegue en producción).
 
 **Demuestra:** HITL · validación estructurada · fiabilidad · gobernanza de decisiones asistidas  
-**Stack:** Python · Pydantic · FastAPI · Patrones de fiabilidad  
-**Evidencia visual:** [banner del repositorio](https://raw.githubusercontent.com/juandelaf1/CASE/main/docs/images/CASE_banner.jpg) (identidad visual, **no** captura de aplicación).
+**Stack:** Python · Pydantic · FastAPI · Patrones de fiabilidad
 
 ### 6) [GeoRisk_Finder](https://github.com/juandelaf1/GeoRisk_Finder) — Geospatial Analytics & Risk *(collaborative)*
 Plataforma de análisis geoespacial de riesgo multiamenaza con malla H3, integración de fuentes (p. ej., sísmicas, ciclones, volcánicas) y clustering, con dashboard interactivo en Streamlit.

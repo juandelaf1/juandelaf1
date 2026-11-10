@@ -73,8 +73,7 @@ Traceable analysis of traffic and revenue dynamics in telecom (CNMC/Eurostat), w
 CLI tools and pipelines to fetch web content and extract structured data, with multiple scraping engines (including Scrapling and Playwright) and local-first AI workflows. Designed to keep processing local by default.
 
 **Demonstrates:** web ingestion · structured extraction · automation · local processing  
-**Stack:** Python · Scrapling · Playwright · Ollama · Docker/CI  
-**Visual evidence:** [repository banner](https://raw.githubusercontent.com/juandelaf1/RASPAL_SCRAPER/main/assets/raspal_scrapper_banner.png) (visual identity, **not** an application screenshot).
+**Stack:** Python · Scrapling · Playwright · Ollama · Docker/CI
 
 ### 4) [AsesorIA](https://github.com/juandelaf1/AsesorIA) — RAG & Grounded AI
 A conversational retrieval-augmented (RAG) assistant focused on grounded answers, with document/page traceability and abstention when evidence is insufficient. Includes a conversational interface, vector retrieval, evaluation, and a containerized/CI development setup.
@@ -86,8 +85,7 @@ A conversational retrieval-augmented (RAG) assistant focused on grounded answers
 Decision orchestration that treats LLM output as a proposal and applies validation, reliability/risk checks, and human-in-the-loop oversight. A portfolio/research project with explicit limitations (not presented as a production deployment).
 
 **Demonstrates:** HITL · structured validation · reliability · assisted decision governance  
-**Stack:** Python · Pydantic · FastAPI · Reliability patterns  
-**Visual evidence:** [repository banner](https://raw.githubusercontent.com/juandelaf1/CASE/main/docs/images/CASE_banner.jpg) (visual identity, **not** an application screenshot).
+**Stack:** Python · Pydantic · FastAPI · Reliability patterns
 
 ### 6) [GeoRisk_Finder](https://github.com/juandelaf1/GeoRisk_Finder) — Geospatial Analytics & Risk *(collaborative)*
 A geospatial multi-hazard risk analysis platform using an H3 grid, multi-source data integration (e.g., seismic, cyclone, volcanic), clustering, and an interactive Streamlit dashboard.
