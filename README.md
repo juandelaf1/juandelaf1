@@ -60,15 +60,14 @@ A curated selection of **6 capabilities** (uniform, mobile-friendly layout): API
 FastAPI services for climate-data integration through contracts: `POST /api/v1/route-weather`, `POST /api/v1/validate-observation`, health/readiness, and configurable operational controls (m2m/scopes, rate limiting, audit, CORS, and security headers). Includes ingestion/ETL and monitoring modules.
 
 **Demonstrates:** API design · contracts and validation · data integration · configurable operations/security  
-**Stack:** FastAPI · Python · Pydantic · PostgreSQL/SQLAlchemy · Docker  
-**Visual evidence:** no screenshot included in this card; see technical documentation and resources in the [repository](https://github.com/juandelaf1/SkyCast).
+**Stack:** FastAPI · Python · Pydantic · PostgreSQL/SQLAlchemy · Docker
 
 ### 2) [NetTension](https://github.com/juandelaf1/NetTension) — Analytics, ETL & BI
 Traceable analysis of traffic and revenue dynamics in telecom (CNMC/Eurostat), with a reproducible ETL pipeline and an interactive Streamlit dashboard. Evaluates predefined hypotheses with explicit data provenance.
 
 **Demonstrates:** reproducible ETL · data analysis · traceable hypotheses/results · interactive BI  
 **Stack:** Python · Pandas · ETL · Streamlit · Visualization  
-**Visual evidence:** [real dashboard screenshot](https://raw.githubusercontent.com/juandelaf1/NetTension/main/assets/screenshots/01_market_overview.png) (repository resource).
+**Visual evidence:** [Dashboard screenshot](https://raw.githubusercontent.com/juandelaf1/NetTension/master/assets/screenshots/01_market_overview.png) (Streamlit app, repository resource).
 
 ### 3) [RASPAL_SCRAPER](https://github.com/juandelaf1/RASPAL_SCRAPER) — Data Ingestion & Automation
 CLI tools and pipelines to fetch web content and extract structured data, with multiple scraping engines (including Scrapling and Playwright) and local-first AI workflows. Designed to keep processing local by default.
@@ -81,8 +80,7 @@ CLI tools and pipelines to fetch web content and extract structured data, with m
 A conversational retrieval-augmented (RAG) assistant focused on grounded answers, with document/page traceability and abstention when evidence is insufficient. Includes a conversational interface, vector retrieval, evaluation, and a containerized/CI development setup.
 
 **Demonstrates:** RAG and grounding · traceability · evidence-based control · rigorous applied AI  
-**Stack:** Python · LangChain · ChromaDB · Embeddings · Chainlit · Docker/CI  
-**Visual evidence:** no screenshot included (no verified representative resource used as canonical UI evidence).
+**Stack:** Python · LangChain · ChromaDB · Embeddings · Chainlit · Docker/CI
 
 ### 5) [CASE](https://github.com/juandelaf1/CASE) — Decision Governance & HITL
 Decision orchestration that treats LLM output as a proposal and applies validation, reliability/risk checks, and human-in-the-loop oversight. A portfolio/research project with explicit limitations (not presented as a production deployment).
@@ -98,8 +96,7 @@ A geospatial multi-hazard risk analysis platform using an H3 grid, multi-source 
 > **Collaborative project (academic/data science).** Developed in a team setting, with shared ownership, clear interfaces, and documented assumptions/modeling choices. Financial/BCR outputs, when presented, are framed as analysis models or scenarios—not real financial results or demonstrated production capabilities.
 
 **Demonstrates:** geospatial analytics · multi-hazard data integration · clustering · interactive visualization  
-**Stack:** Python · H3/Geospatial · scikit-learn · Streamlit · Visualization  
-**Visual evidence:** no screenshot included in this card (no verified representative resource).
+**Stack:** Python · H3/Geospatial · scikit-learn · Streamlit · Visualization
 
 ---
 
